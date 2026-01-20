@@ -1,12 +1,12 @@
---- Status logget: Tue Jan 20 09:00:01 UTC 2026 ---
+--- Status logget: Tue Jan 20 15:00:01 UTC 2026 ---
 Uptime:
- 09:00:01 up 26 days, 18:57,  0 users,  load average: 0.01, 0.01, 0.00
+ 15:00:01 up 27 days, 57 min,  2 users,  load average: 0.00, 0.01, 0.00
 
 Disk Usage:
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/sda5        19G   15G  4.5G  77% /
+/dev/sda5        19G   18G  1.7G  92% /
 
 Memory Usage:
               total        used        free      shared  buff/cache   available
-Mem:          3.6Gi       1.4Gi       556Mi       191Mi       1.6Gi       1.7Gi
+Mem:          3.6Gi       1.5Gi       330Mi       199Mi       1.8Gi       1.6Gi
 Swap:            0B          0B          0B
